@@ -1,6 +1,13 @@
+
+
+
+//to check branch in git
+
+
 package com.mavenit.pom.practise;
 
 import org.hamcrest.CoreMatchers;
+import org.junit.Ignore;
 import org.junit.Test;
 import com.mavenit.pom.practise.page_elements.BasketPage;
 import com.mavenit.pom.practise.page_elements.HomePage;
@@ -91,6 +98,7 @@ public class RegressionSuite extends Hooks {
 
 
     }
+
 
 
 
