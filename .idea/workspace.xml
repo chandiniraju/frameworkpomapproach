@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12282b2f-a35d-4624-8c01-43130d8001dc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/RegressionSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/RegressionSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/page_elements/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/page_elements/HomePage.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="56" selection-start-line="9" selection-start-column="3" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/testutils/RandomNumberHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/page_elements/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/page_elements/ResultsPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="68" column="32" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/RegressionSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11">
+              <caret line="57" column="14" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/Hooks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/page_elements/BasketPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="10" column="5" selection-start-line="7" selection-start-column="3" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/page_elements/ProductDescriptionPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="14" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/test/java/page_elements</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Hooks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testutils/RandomNumberHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/page_elements/ProductDescriptionPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/page_elements/BasketPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RegressionSuite.java" />
+        <option value="$PROJECT_DIR$/src/test/java/page_elements/ResultsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/page_elements/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/page_elements/ResultsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/page_elements/ProductDescriptionPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/page_elements/BasketPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/Hooks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/page_elements/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/RegressionSuite.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="automatingcurryspom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automatingcurryspom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automatingcurryspom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automatingcurryspom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automatingcurryspom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automatingcurryspom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automatingcurryspom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automatingcurryspom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automatingcurryspom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automatingcurryspom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automatingcurryspom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automatingcurryspom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="practise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automatingcurryspom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automatingcurryspom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="practise" type="462c0819:PsiDirectoryNode" />
+              <item name="page_elements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automatingcurryspom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automatingcurryspom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="practise" type="462c0819:PsiDirectoryNode" />
+              <item name="testutils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RegressionSuite.addProductToBasketTest">
+    <configuration name="RegressionSuite.abc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automatingcurryspom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mavenit.pom.practise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mavenit.pom.practise" />
+      <option name="MAIN_CLASS_NAME" value="com.mavenit.pom.practise.RegressionSuite" />
+      <option name="METHOD_NAME" value="abc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegressionSuite.addProductToBasketTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automatingcurryspom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mavenit.pom.practise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mavenit.pom.practise" />
+      <option name="MAIN_CLASS_NAME" value="com.mavenit.pom.practise.RegressionSuite" />
+      <option name="METHOD_NAME" value="addProductToBasketTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegressionSuite.filterPriceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automatingcurryspom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mavenit.pom.practise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mavenit.pom.practise" />
+      <option name="MAIN_CLASS_NAME" value="com.mavenit.pom.practise.RegressionSuite" />
+      <option name="METHOD_NAME" value="filterPriceTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegressionSuite.suggestedDepSearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automatingcurryspom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mavenit.pom.practise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mavenit.pom.practise" />
+      <option name="MAIN_CLASS_NAME" value="com.mavenit.pom.practise.RegressionSuite" />
+      <option name="METHOD_NAME" value="suggestedDepSearchTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegressionSuite.suggestedProductSearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automatingcurryspom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mavenit.pom.practise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mavenit.pom.practise" />
+      <option name="MAIN_CLASS_NAME" value="com.mavenit.pom.practise.RegressionSuite" />
+      <option name="METHOD_NAME" value="suggestedProductSearchTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RegressionSuite.addProductToBasketTest" />
+        <item itemvalue="JUnit.RegressionSuite.suggestedProductSearchTest" />
+        <item itemvalue="JUnit.RegressionSuite.suggestedDepSearchTest" />
+        <item itemvalue="JUnit.RegressionSuite.abc" />
+        <item itemvalue="JUnit.RegressionSuite.filterPriceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12282b2f-a35d-4624-8c01-43130d8001dc" name="Default Changelist" comment="" />
+      <created>1573891817050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573891817050</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RegressionSuite_suggestedProductSearchTest - 2019.11.22 at 12h 06m 41s.xml">
+      <configuration name="RegressionSuite.suggestedProductSearchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RegressionSuite_suggestedProductSearchTest - 2019.11.22 at 12h 19m 08s.xml">
+      <configuration name="RegressionSuite.suggestedProductSearchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RegressionSuite_suggestedProductSearchTest - 2019.11.22 at 12h 21m 05s.xml">
+      <configuration name="RegressionSuite.suggestedProductSearchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RegressionSuite_suggestedProductSearchTest - 2019.11.22 at 12h 25m 23s.xml">
+      <configuration name="RegressionSuite.suggestedProductSearchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RegressionSuite_suggestedProductSearchTest - 2019.11.22 at 12h 27m 06s.xml">
+      <configuration name="RegressionSuite.suggestedProductSearchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RegressionSuite_suggestedProductSearchTest - 2019.11.22 at 12h 34m 20s.xml">
+      <configuration name="RegressionSuite.suggestedProductSearchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RegressionSuite_suggestedDepSearchTest - 2019.11.22 at 12h 35m 56s.xml">
+      <configuration name="RegressionSuite.suggestedDepSearchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RegressionSuite_suggestedProductSearchTest - 2019.11.23 at 09h 42m 07s.xml">
+      <configuration name="RegressionSuite.suggestedProductSearchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RegressionSuite_addProductToBasketTest - 2019.11.23 at 09h 42m 53s.xml">
+      <configuration name="RegressionSuite.addProductToBasketTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RegressionSuite_addProductToBasketTest - 2019.11.23 at 09h 43m 41s.xml">
+      <configuration name="RegressionSuite.addProductToBasketTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20314735" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32907802" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/automate/testutils/RandomNumberHelper.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" selection-start-line="9" selection-start-column="3" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/testutils/RandomNumberHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/page_elements/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/page_elements/ResultsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="68" column="32" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/Hooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/page_elements/BasketPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="5" selection-start-line="7" selection-start-column="3" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/page_elements/ProductDescriptionPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mavenit/pom/practise/RegressionSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="57" column="14" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
