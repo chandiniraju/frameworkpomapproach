@@ -33,26 +33,31 @@ public void clickSearch()
 {
     driver.findElement(By.xpath("//button[@type='submit']")).click();
 }
-public void selectDepartmentFromSuggestions(String item)
+public String selectDepartmentFromSuggestions(String item)
 {
-    selectFromSuggestions(item,By.xpath("//div[@class='dc-search-suggestions__suggestion dc-search-suggestions__suggestion--term']"));
+    String selected=selectFromSuggestions(item,By.xpath("//div[@class='dc-search-suggestions__suggestion dc-search-suggestions__suggestion--term']"));
+    return selected;
 }
-public void  selectProductsFromSuggestions(String item)
+public String selectProductsFromSuggestions(String item)
 {
-    selectFromSuggestions(item,By.xpath("//div[@class='dc-search-suggestions__suggestion dc-search-suggestions__suggestion--sayt']"));
+    String selected=selectFromSuggestions(item,By.xpath("//div[@class='dc-search-suggestions__suggestion dc-search-suggestions__suggestion--sayt']"));
+     return selected;
 }
 
-public void selectFromSuggestions(String item,By by)
-{
-List<WebElement> suggestionElements= driver.findElements(by);
-int listSize=suggestionElements.size();
-if(listSize==0)
-{
-    fail("no suggestions");
+public String  selectFromSuggestions(String item,By by) {
+    List<WebElement> suggestionElements = driver.findElements(by);
+    int listSize = suggestionElements.size();
+    if (listSize == 0) {
+        fail("no suggestions");
+    }
+    int randomIndex = new RandomNumberHelper().generateRandomNumber(listSize);
+    WebElement selectedElement = suggestionElements.get(randomIndex);
+
+    String selectedSuggestion = selectedElement.getText();
+    System.out.println("selected suggestion is   " + selectedSuggestion);
+    selectedElement.click();
+    return selectedSuggestion;
+
 }
-int randomIndex=new RandomNumberHelper().generateRandomNumber(listSize);
-WebElement selectedElement=suggestionElements.get(randomIndex);
-String selectedSuggestion=selectedElement.getText();
-selectedElement.click();
 }
-}
+

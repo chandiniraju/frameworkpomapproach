@@ -52,15 +52,21 @@ public class RegressionSuite extends Hooks {
     {
        String searchItem="cable";
        homePage.enterSearchItem(searchItem);
-       homePage.selectDepartmentFromSuggestions(searchItem);
+       String actual=homePage.selectDepartmentFromSuggestions(searchItem);
+       System.out.println("actual is   " +actual);
+       //String actual=resultsPage.getThumbNail();
+        assertThat(actual,containsString(searchItem));
 
     }
     @Test
     public void suggestedProductSearchTest()                             //search from product suggestions
     {
-       String searchItem="cable";
+       String searchItem="Cable";
        homePage.enterSearchItem(searchItem);
-       homePage.selectProductsFromSuggestions(searchItem);
+       String actual=homePage.selectProductsFromSuggestions(searchItem);
+       //String actual=resultsPage.getPageTitle();
+       System.out.println("actual is  " +actual);
+       assertThat(actual,containsString(searchItem));
     }
 
     @Test
